@@ -4,6 +4,7 @@
 // "";
 // null
 // NaN
+//undefined
 
 //Truthy
 //'0' ' '
